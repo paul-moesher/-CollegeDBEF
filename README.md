@@ -1,2 +1,2 @@
 # CollegeDBEF
-SQL database built with MVC and the entity framework.
+T-SQL database built with MVC and the entity framework.
